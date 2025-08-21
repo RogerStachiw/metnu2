@@ -1,5 +1,7 @@
 import numpy as np
 
+rsrs = 1
+
 def euler(derivative, CI, interval, steps ) -> list:
 
 
